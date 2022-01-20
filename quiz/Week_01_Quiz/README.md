@@ -88,9 +88,10 @@ If you don't see `(base)`, activate the base environment with:
 		
 13. Click the link in the 2nd Cell, and fill in the survey
 
-14. After that, create a 3rd Cell, and write code to print 
+14. After that, create the 3rd Cell, and write code to print 
 
-I have DONE the survey for EODS, my UNI is: {your UNI}
+    myuni = 'hw2592'  (use your own)
+    I have DONE the survey for EODS, my UNI is: {your UNI} (where your UNI should be replaced with the variable myuni)
 
 ---
 
@@ -106,4 +107,6 @@ Choose the file that you created in Part 2 above, i.e., "Week_01_Quiz-UNI" (UNI 
 
 4. Add an optional extended description
 
-5. Click "Commit changes" -- this essentially have submitted your quiz (you can repeat 1-4 before due date in case you need to make any change to your code)
+5. Click "Commit changes"
+-- this essentially have submitted your quiz (you can repeat 1-4 before due date in case you need to make any change to your code)
+
