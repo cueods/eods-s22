@@ -64,8 +64,10 @@ If you don't see `(base)`, activate the base environment with:
         (eods-s22) $ jupyter notebook
 		
 	In case you prefer to use (base) environment, return to the base environment and launch Jupyter Notebook server:
+	
         (eods-s22) $ conda deactivate
         (base) $ jupyter notebook
+	
 	(if you are using base environment, then in step 10, instead of using newly created kernel, you can use New -> Python 3 intead.)
 
 9. In Jupyter, navigate to the folder: quiz/Week_01_Quiz
