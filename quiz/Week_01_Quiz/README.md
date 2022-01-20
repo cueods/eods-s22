@@ -92,7 +92,7 @@ If you don't see `(base)`, activate the base environment with:
 
     I have DONE the survey for EODS, my UNI is: {your UNI}, and my github id is:{your githubID} 
     
-	(Please note that this helps us link your UNI with your githubID so grades can be assigned)
+    (Please note that this helps us link your UNI with your githubID so grades can be assigned)
 
 ---
 
