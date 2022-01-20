@@ -95,6 +95,7 @@ If you don't see `(base)`, activate the base environment with:
     mygithubid = 'cueods' (use your own)
 	
     I have DONE the survey for EODS, my UNI is: {your UNI}, and my github id is:{your githubID} 
+    
     (where your UNI and your githubID should be replaced with the variables myuni and githubids)
 
 ---
