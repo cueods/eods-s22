@@ -1,2 +1,2 @@
-# eods-s22
+# Welcome to Elements of Data Science!
  
