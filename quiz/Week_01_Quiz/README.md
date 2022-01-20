@@ -90,8 +90,12 @@ If you don't see `(base)`, activate the base environment with:
 
 14. After that, create the 3rd Cell, and write code to print 
 
-    myuni = 'hw2592'  (use your own)
-    I have DONE the survey for EODS, my UNI is: {your UNI} (where your UNI should be replaced with the variable myuni)
+    myuni = 'hw2592' (use your own)
+	mygithubid = 'cueods' (use your own)
+	
+    I have DONE the survey for EODS, my UNI is: {your UNI}, and my github id is:{your githubID} 
+	
+	(where your UNI and your githubID should be replaced with the variables myuni and githubids)
 
 ---
 
