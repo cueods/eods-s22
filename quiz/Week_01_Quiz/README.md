@@ -70,11 +70,11 @@ If you don't see `(base)`, activate the base environment with:
 	
 	(if you are using base environment, then in step 10, instead of using newly created kernel, you can use New -> Python 3 intead.)
 
-9. In Jupyter, navigate to the folder: quiz/Week_01_Quiz
+9. In Jupyter, navigate to the folder: quiz/week_01_quiz
 
 10. Open a new notebook using the newly created kernel: New -> eods-s22 (or New -> Python 3) 
 
-11. Rename the notebook "Week_01_Quiz-UNI", replacing UNI with your uniqe CUID
+11. Rename the notebook "week_01_quiz-uni", replacing uni with your unique CUID
 
 12. In the first cell, copy the following code and run:
 
@@ -90,13 +90,9 @@ If you don't see `(base)`, activate the base environment with:
 
 14. After that, create the 3rd Cell, and write code to print 
 
-    myuni = 'hw2592' (use your own)
-    
-    mygithubid = 'cueods' (use your own)
-	
     I have DONE the survey for EODS, my UNI is: {your UNI}, and my github id is:{your githubID} 
     
-    (where your UNI and your githubID should be replaced with the variables myuni and githubids)
+	(Please note that this helps us link your UNI with your githubID so grades can be assigned)
 
 ---
 
